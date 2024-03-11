@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+
+/*width="125" height="100" */
+
+@font-face{
+    font-family: font1;
+    src: url('./fonts/font1.woff2');
+}
+
+@font-face{
+    font-family: font2;
+    src: url('./fonts/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2');
+}
+
